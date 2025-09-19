@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Job Interview",
+    "date": "2025-10-10",
+    "description": "Interview at Python"
+  },
+  {
+    "id": 2,
+    "title": "Doctor Appointment",
+    "date": "2025-11-05",
+    "description": "Routine checkup"
+  },
+  {
+    "id": 3,
+    "title": "University Assignment",
+    "date": "2025-09-28",
+    "description": "Submit Data Science project"
+  },
+  {
+    "id": 4,
+    "title": "Friend’s Birthday",
+    "date": "2025-09-25",
+    "description": "Buy a gift"
+  },
+  {
+    "id": 5,
+    "title": "Family Dinner",
+    "date": "2025-10-01",
+    "description": "Dinner at grandmother’s house"
+  },
+  {
+    "id": 6,
+    "title": "Exam Preparation",
+    "date": "2025-10-05",
+    "description": "Revise Operating System notes"
+  }
+]
