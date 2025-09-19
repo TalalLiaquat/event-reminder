@@ -118,7 +118,10 @@ Event Reminder Menu
 ![Add Event](screenshorts/2.png)  
 
 ### ▶ Viewing Events  
-![View Events](screenshorts/3.png)  
+![View Events](screenshorts/4.png)  
+
+### ▶ Loading Events from File  
+![Load Events](screenshorts/6.png)  
 
 ---
 
