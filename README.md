@@ -138,12 +138,10 @@ Event Reminder Menu
 
 ## ✨ Author
 
-Developed by **M. Talal Liaquat**
+Developed by ❤️**M. Talal Liaquat**❤️
 
 * GitHub: [TalalLiaquat](https://github.com/TalalLiaquat)
 * LinkedIn: *https://www.linkedin.com/in/talal-liaquat/*
-
----
 
 ## 📄 License  
 This project is licensed under the [MIT License](LICENSE).
