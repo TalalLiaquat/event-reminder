@@ -112,13 +112,13 @@ Event Reminder Menu
 ## 📸 Screenshots  
 
 ### ▶ Menu  
-![Menu](Screenshort/1.png)  
+![Menu](screenshorts/1.png)  
 
 ### ▶ Adding an Event  
-![Add Event](Screenshort/2.png)  
+![Add Event](screenshorts/2.png)  
 
 ### ▶ Viewing Events  
-![View Events](Screenshort/3.png)  
+![View Events](screenshorts/3.png)  
 
 ---
 
