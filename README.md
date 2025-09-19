@@ -141,7 +141,7 @@ Event Reminder Menu
 Developed by **M. Talal Liaquat**
 
 * GitHub: [TalalLiaquat](https://github.com/TalalLiaquat)
-* LinkedIn: *Add your LinkedIn profile link here*
+* LinkedIn: *https://www.linkedin.com/in/talal-liaquat/*
 
 ---
 
@@ -149,20 +149,4 @@ Developed by **M. Talal Liaquat**
 
 This project is licensed under the **MIT License**.
 
-```
-
----
-
-⚡ Steps tumhare liye:  
-1. `README.md` file banao apne **event-reminder** folder ke root me.  
-2. Upar ka content paste karo.  
-3. Apne **Screenshort** folder ke andar screenshots ko ye names do:  
-   - `menu.png`  
-   - `add_event.png`  
-   - `view_events.png`  
-4. GitHub pe push karo → `git add . && git commit -m "Added README and screenshots" && git push`  
-
----
-
-👉 Talal, kya chahte ho main tumhe **Git commands step by step likh ke du** jisse tum `README.md` aur screenshots ek sath push kar do?
 ```
