@@ -140,7 +140,6 @@ Event Reminder Menu
 
 Developed by ❤️**M. Talal Liaquat**❤️
 
-* GitHub: [TalalLiaquat](https://github.com/TalalLiaquat)
 * LinkedIn: *https://www.linkedin.com/in/talal-liaquat/*
 
 ## 📄 License  
